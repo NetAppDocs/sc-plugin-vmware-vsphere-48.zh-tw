@@ -194,7 +194,6 @@ Shell指令碼必須從開始<block ref="62b7d257e0324dcf373ded7c6ea5877b" prefi
   <block id="af6d7d31c35cf99b12c13a1c1f334d32" category="paragraph"><block ref="3d6deff69cb4148925c5d031dca2f3e7" prefix="" category="inline-code"></block></block>
   <block id="28ff5670512ab81bbe557d7ff7a34382" category="paragraph"><block ref="61ffab90e3574ac278783a2a7668f01f" prefix="" category="inline-code"></block></block>
   <block id="35b654fd14f12a33551c1993b5321fcb" category="summary">VMware vSphere（選擇控制器）的VMware外掛程式是Linux型虛擬應用裝置。SnapCenter獨立式環境可為VM、資料存放區及VMDK提供快速、節省空間、損毀一致且VM一致的備份與還原作業。它也能搭配SnapCenter 使用支援應用程式型的VMware環境備份與還原作業、以利SnapCenter 執行應用程式專屬的外掛程式。</block>
-  <block id="8c3d0c00ea667e3e0723e5cdc6473a09" category="doc">VMware vSphere文件的VMware外掛程式SnapCenter</block>
   <block id="af5eb3f6323875097e7bb24b26d6173d" category="summary">您可以從傳統VM或VVol VM的主要或次要備份還原現有的VMDK、或是刪除或分離的VMDK。</block>
   <block id="8a27845eda3dc9db5703ac822013a97b" category="doc">從備份還原VMDK</block>
   <block id="28986121df861fb247edecf736ca8965" category="paragraph">您可以將虛擬機器上的一或多個虛擬機器磁碟（VMDK）還原至相同的資料存放區。</block>
@@ -2393,7 +2392,6 @@ VirtualMachine.State.RevertToSnapshot</block>
   <block id="c257f5c852c12409e63afb17104f69c5" category="sidebar">REST API</block>
   <block id="a3d53cfe9124531cb5f9bbfefe704326" category="sidebar">REST API工作流程可修改內建排程</block>
   <block id="3da6944b1baaec4beb70694ac307fd1f" category="sidebar">升級至同一版本的新修補程式</block>
-  <block id="3390e3575b3e341afa2b7172ff5b33a7" category="sidebar">VMware vSphere的插件SnapCenter</block>
   <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
   <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
   <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
@@ -2402,4 +2400,5 @@ VirtualMachine.State.RevertToSnapshot</block>
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="760b8cb1a553fbe09568e1e4a36f3d07" category="sidebar">適用於 VMware vSphere 4.8 的 SnapCenter 外掛程式文件</block>
 </blocks>
